@@ -2,7 +2,7 @@
 This is a code package related to the follow scientific article:
 E. Balti, M. Guizani, B. Hamdaoui and B. Khalfi, "[Aggregate Hardware Impairments Over Mixed RF/FSO Relaying Systems With Outdated CSI](https://ieeexplore.ieee.org/document/8118139)," in IEEE Transactions on Communications, vol. 66, no. 3, pp. 1110-1123, March 2018.
 
-The package contains a simulation environment, based on Matlab, that reproduces the analytical and Monte Carlo simulation of Málaga distribution.
+The package contains a simulation environment, based on Matlab, that reproduces the analytical and Monte Carlo simulations of Málaga distribution.
 
 # Content of Code Package
 This package contains 2 files: 
