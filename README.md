@@ -7,7 +7,7 @@ The package contains a simulation environment, based on Matlab, that reproduces 
 # Content of Code Package
 This package contains 2 files: 
 
-1- "malagaPDF.m" returns the analytical expression of the probability density function (PDF) of Malaga distribution.
+1- "malagaPDF.m" returns the analytical expression of the probability density function (PDF) of Málaga distribution.
 
 2- "main.m" validates the cumulative distribution function (CDF) by comparing the analytical and Monte Carlo simulations.
 
