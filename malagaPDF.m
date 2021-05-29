@@ -2,7 +2,7 @@
 % malagaPDF.m
 %
 % Created May, 2021
-% Elyes balti
+% Elyes Balti
 % The University of Texas at Austin
 %
 % If you use this code or any (modified) part of it in any publication, please cite 
